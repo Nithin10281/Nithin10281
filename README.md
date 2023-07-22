@@ -1,4 +1,4 @@
-- Hi, I’m Nithin
+- Hi, I’m Nityanandayya
 - I’m interested in Creating video games and developing GUi
 - I’m currently learning Bachelors degree in Computer Science
 
